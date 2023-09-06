@@ -10,4 +10,4 @@ Projeto feito para estudos e treinos
 # Informações sobre o projeto
 Nada a declarar.
 
-Linkedin: https://www.linkedin.com/in/rachel-victória-60a26019b/
+Linkedin: https://www.linkedin.com/in/rachelpereira/
